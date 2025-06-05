@@ -1,6 +1,18 @@
-Learning react course
-first day==>counter
-    ===>using use state I implemented counter project using two buttons
-        ==>one button is used to increase the value
-        ==>while the other one is used to decrease
-        ==>Increase the values only upto the range 20 also the other condition is we can decrease value only upto 0
+This is a simple Counter App built on the first day of my React learning journey.
+
+🚀 What I Learned
+Used the useState hook to manage the counter value.
+
+Built a UI with two buttons:
+
+🔼 Increase – Increments the counter.
+
+🔽 Decrease – Decrements the counter.
+
+✅ Features
+Counter increases up to a maximum value of 20.
+
+Counter decreases only down to a minimum value of 0.
+
+Values are constrained to stay within this 0–20 range.
+
